@@ -1,0 +1,4 @@
+autograd
+future
+matplotlib
+numpy
