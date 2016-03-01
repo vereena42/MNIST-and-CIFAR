@@ -1,0 +1,7 @@
+### CIFAR ###
+test_batch
+data_batch_*
+batches.meta
+
+### Archives ###
+*.gz
